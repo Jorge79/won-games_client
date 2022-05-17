@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
     font-weight: 300;
     font-display: swap;
     src: local(''),
-        url('/fonts/poppins-v20-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('/fonts/poppins-v20-latin-300.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
   }
 
   @font-face {
@@ -17,7 +17,7 @@ const GlobalStyles = createGlobalStyle`
     font-weight: 400;
     font-display: swap;
     src: local(''),
-        url('/fonts/poppins-v20-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('/fonts/poppins-v20-latin-regular.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
   }
 
   @font-face {
@@ -26,7 +26,7 @@ const GlobalStyles = createGlobalStyle`
     font-weight: 600;
     font-display: swap;
     src: local(''),
-        url('/fonts/poppins-v20-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('/fonts/poppins-v20-latin-600.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
   }
 
   * {
