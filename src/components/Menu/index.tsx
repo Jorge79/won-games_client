@@ -9,7 +9,7 @@ import * as S from './styles'
 const Menu = () => (
   <S.Wrapper>
     <S.IconWrapper>
-      <MenuIcon />
+      <MenuIcon aria-label="Open Menu" />
     </S.IconWrapper>
 
     <S.LogoWrapper>
